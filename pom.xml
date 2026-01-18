@@ -17,6 +17,7 @@
     </properties>
 
     <!-- Фреймворк для модульного тестирования и Мокито для мок-объектов -->
+
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
